@@ -10,7 +10,7 @@ import SetPrice from './components/SetPrice';
 import AddItem from './components/AddItem';
 import Category from './components/Category';
 import Location from './components/Location';
-import {UserContext} from "./contexts/UserContext";
+// import {UserContext} from "./contexts/UserContext";
 import Edit from './components/Edit';
 
 function App() {

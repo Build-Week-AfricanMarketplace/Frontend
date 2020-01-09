@@ -2,7 +2,7 @@ import React, { useState, useEffect, useContext, Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Link } from 'react-router-dom';
 import { axiosWithAuth } from '../utils/axiosWithAuth';
-import { UserContext } from '../contexts/UserContext';
+// import { UserContext } from '../contexts/UserContext';
 
 const initialCategories = [
     {
